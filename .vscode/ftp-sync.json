@@ -1,0 +1,37 @@
+{
+    "remotePath": "/home/pi/workspace",
+    "host": "192.168.199.188",
+    "username": "pi",
+    "password": "a31415926",
+    "port": 22,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\logs/",
+        "\\npm-debug.log",
+        "\\yarn-error.log",
+        "\\node_modules/",
+        "\\package-lock.json",
+        "\\yarn.lock",
+        "\\coverage/",
+        "\\.idea/",
+        "\\run/",
+        "\\.DS_Store",
+        "\\*.sw*",
+        "\\*.un~"
+
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
